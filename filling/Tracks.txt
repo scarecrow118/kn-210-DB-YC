@@ -1,0 +1,5 @@
+,Monaco Circuit,Monaco,78;
+,Silverstone,UK,52;
+,Suzuka,Japan,53;
+,Monza,Italy,55;
+,Spa-Francorchamps,Belgium,44;

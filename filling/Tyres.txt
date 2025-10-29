@@ -1,0 +1,5 @@
+,Soft,Pirelli;
+,Medium,Pirelli;
+,Hard,Pirelli;
+,Intermediate,Pirelli;
+,Wet,Pirelli;

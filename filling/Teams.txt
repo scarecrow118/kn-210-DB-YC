@@ -1,0 +1,5 @@
+,Mercedes,Germany,44;
+,Red Bull,Austria,33;
+,Ferrari,Italy,16;
+,McLaren,UK,4;
+,Alpine,France,14;

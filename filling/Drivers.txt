@@ -1,0 +1,15 @@
+,Lewis,Hamilton,UK,44,1;
+,Max,Verstappen,Netherlands,33,2;
+,Charles,Leclerc,Monaco,16,3;
+,Lando,Norris,UK,4,4;
+,Fernando,Alonso,Spain,14,5;
+,Valtteri,Bottas,Finland,77,1;
+,Sergio,Perez,Mexico,11,2;
+,Carlos,Sainz,Spain,55,3;
+,Daniel,Ricciardo,Australia,3,4;
+,Esteban,Ocon,France,31,5;
+,George,Russell,UK,63,1;
+,Pierre,Gasly,France,10,2;
+,Sebastian,Vettel,Germany,5,3;
+,Kevin,Magnussen,Denmark,20,4;
+,Yuki,Tsunoda,Japan,22,5;

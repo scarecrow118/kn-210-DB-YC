@@ -1,0 +1,15 @@
+,1,Monaco GP,Monaco,2020-05-24,15:10,Sunny,1,1;
+,2,British GP,UK,2020-07-12,14:00,Rainy,1,2;
+,3,Japanese GP,Japan,2020-10-11,07:00,Sunny,1,3;
+,4,Italian GP,Italy,2020-09-06,14:10,Sunny,1,4;
+,5,Belgian GP,Belgium,2020-08-30,14:10,Cloudy,1,5;
+,6,Monaco GP,Monaco,2021-05-23,15:10,Sunny,2,1;
+,7,British GP,UK,2021-07-18,14:00,Sunny,2,2;
+,8,Japanese GP,Japan,2021-10-10,07:00,Cloudy,2,3;
+,9,Italian GP,Italy,2021-09-05,14:10,Sunny,2,4;
+,10,Belgian GP,Belgium,2021-08-29,14:10,Rainy,2,5;
+,11,Monaco GP,Monaco,2022-05-22,15:10,Sunny,3,1;
+,12,British GP,UK,2022-07-17,14:00,Sunny,3,2;
+,13,Japanese GP,Japan,2022-10-09,07:00,Sunny,3,3;
+,14,Italian GP,Italy,2022-09-04,14:10,Cloudy,3,4;
+,15,Belgian GP,Belgium,2022-08-28,14:10,Sunny,3,5;

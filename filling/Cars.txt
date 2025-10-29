@@ -1,0 +1,15 @@
+,Mercedes W11,W11,44,1;
+,Red Bull RB16B,RB16B,33,2;
+,Ferrari SF21,SF21,16,3;
+,McLaren MCL35M,MCL35M,4,4;
+,Alpine A521,A521,14,5;
+,Mercedes W12,W12,77,1;
+,Red Bull RB17,RB17,11,2;
+,Ferrari SF22,SF22,55,3;
+,McLaren MCL36,MCL36,3,4;
+,Alpine A522,A522,31,5;
+,Mercedes W13,W13,63,1;
+,Red Bull RB18,RB18,10,2;
+,Ferrari SF23,SF23,5,3;
+,McLaren MCL37,MCL37,20,4;
+,Alpine A523,A523,22,5;
